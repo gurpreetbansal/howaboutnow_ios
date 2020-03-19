@@ -1,0 +1,6 @@
+framework module Pods_HowAboutNow_HowAboutNowUITests {
+  umbrella header "Pods-HowAboutNow-HowAboutNowUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
